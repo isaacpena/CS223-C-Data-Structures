@@ -13,7 +13,7 @@ Hw6 - Linked lists in a battleship-like game - ships.c
 
 Hw7 - Priority queue heap implementation - strategy.c
 
-Hw8 - 
+Hw8 - Modifiable and searchable ordered set with AVL tree implementation - orderedSet.c
 
-Hw9 - 
+Hw9 - Recursive program to find black pixel 'paths' through a black&white image - maze.c
 
